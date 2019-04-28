@@ -1,0 +1,42 @@
+int x=4;
+int y;
+int z;
+void a() {
+    x=1;
+    while(x==1)
+    {
+    y=x;
+    if(y==x)
+    {
+    y=2;
+    }
+    }
+    return;
+}
+void b() {
+    c();
+    d();
+    return;
+}
+void c() {
+    y=x*2;
+    if(y<x)
+    {
+        y=x;
+    }
+    return;
+}
+void d() {
+    y=0;
+    return;
+}
+int e() {
+    int n=2;
+    return n;
+}
+int main() {
+    a();
+    b();
+    z=e();
+    return 0;
+}#

@@ -1,0 +1,17 @@
+int x=16;
+int y;
+int main()
+{
+y=2;
+while(x>y)
+{
+if(x>=8)
+{
+x=x/y;
+}
+else
+{
+y=y+1;
+}
+}
+}#

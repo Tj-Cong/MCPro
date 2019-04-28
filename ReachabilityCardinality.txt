@@ -1,0 +1,9 @@
+CircularTrains-PT-012-ReachabilityCardinality-0:<>(!(!{tokens-count(Section_10,)<=tokens-count(Section_1,)}))
+CircularTrains-PT-012-ReachabilityCardinality-1:[]((!(!{tokens-count(F1,)<=tokens-count(Section_9,)}))||{2<=tokens-count(F2,)})
+CircularTrains-PT-012-ReachabilityCardinality-2:<>((({3<=tokens-count(F3,)}||{1<=tokens-count(Section_2,)})&&({tokens-count(F12,)<=tokens-count(F1,)}||{2<=tokens-count(Section_11,)}))&&(!({tokens-count(F10,)<=tokens-count(Section_1,)}||{1<=tokens-count(Section_10,)})))
+CircularTrains-PT-012-ReachabilityCardinality-3:[](!{2<=tokens-count(Section_3,)})
+CircularTrains-PT-012-ReachabilityCardinality-4:<>(((!{1<=tokens-count(Section_4,)})&&{2<=tokens-count(Section_12,)})&&{tokens-count(F12,)<=tokens-count(F10,)})
+CircularTrains-PT-012-ReachabilityCardinality-5:<>{3<=tokens-count(F6,)}
+CircularTrains-PT-012-ReachabilityCardinality-6:[]((({tokens-count(Section_3,)<=tokens-count(Section_12,)}||{tokens-count(Section_5,)<=tokens-count(F4,)})||({tokens-count(Section_12,)<=tokens-count(F6,)}||{tokens-count(Section_12,)<=tokens-count(F8,)}))&&(!({2<=tokens-count(F5,)}&&{3<=tokens-count(F9,)})))
+CircularTrains-PT-012-ReachabilityCardinality-7:[](((!{2<=tokens-count(F4,)})&&{3<=tokens-count(Section_8,)})&&(!{3<=tokens-count(Section_11,)}))
+CircularTrains-PT-012-ReachabilityCardinality-8:<>((!({1<=tokens-count(F12,)}||{tokens-count(Section_8,)<=tokens-count(F4,)}))||(!({2<=tokens-count(F11,)}&&{1<=tokens-count(Section_4,)})))
